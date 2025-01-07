@@ -50,7 +50,6 @@ let Books = () => {
               </div>
             </div>
           </div>
-          <hr />
         </div>
       )}
     </>

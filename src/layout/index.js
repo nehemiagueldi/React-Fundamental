@@ -11,7 +11,6 @@ let Layout = () => {
 
         <Outlet />
         
-        <hr />
         <Footer />
       </div>
     </>

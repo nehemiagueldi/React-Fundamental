@@ -24,7 +24,7 @@ let DetailBooks = () => {
       }
     };
     selectedBooks();
-  }, []);
+  }, [id]);
   return (
     <>
       {loading ? (
